@@ -9,4 +9,4 @@ Inside the project folder, there are the codes and several files present in the 
 
 # Live Demo
 
- - [react-portfolio-test.netlify.app](https://react-portfolio-test.netlify.app/)
+ - [react-test-portfolio.netlify.app](https://react-portfolio-test.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/d431aa94-93e0-4f18-b9b9-f4c049e3817a/deploy-status)](https://app.netlify.com/sites/react-test-portfolio/deploys)
