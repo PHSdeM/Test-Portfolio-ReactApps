@@ -1,6 +1,6 @@
-# Welcome to Projects ReactJs
+# Welcome to Project ReactJs
 
-This repository contains projects using the ReactJs Framework, from basic to advanced web projectsr.
+This repository contains project web porftolio using the ReactJs Framework, from basic to advanced web projectsr.
 
 
 # Files
